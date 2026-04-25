@@ -58,6 +58,7 @@ claude install-skill https://github.com/worply-dev/claude-code-skills/tree/main/
 ## 使ってみた方へ
 
 Skills を実際に使ってみた感想・改善点があれば、ぜひ教えてください:
+- [導入報告フォーム](https://docs.google.com/forms/d/e/1FAIpQLSdRTToQCOINn_v_cW-UUHXdTcxgi-hgnMAJ3xAFdpyf2qZ8dw/viewform)（3問・1分で完了）
 - [GitHub Issues](https://github.com/worply-dev/claude-code-skills/issues) で報告
 - X ([@kuni_p_](https://x.com/kuni_p_)) でメンション
 
